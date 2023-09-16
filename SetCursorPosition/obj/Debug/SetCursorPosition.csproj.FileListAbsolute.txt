@@ -1,0 +1,7 @@
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\bin\Debug\SetCursorPosition.exe
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\bin\Debug\SetCursorPosition.pdb
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\obj\Debug\SetCursorPosition.csproj.AssemblyReference.cache
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\obj\Debug\SetCursorPosition.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\obj\Debug\SetCursorPosition.csproj.CoreCompileInputs.cache
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\obj\Debug\SetCursorPosition.exe
+C:\Users\nicla\RiderProjects\SetCursorPosition\SetCursorPosition\obj\Debug\SetCursorPosition.pdb
