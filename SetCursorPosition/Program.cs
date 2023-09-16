@@ -12,7 +12,7 @@ namespace SetCursorPosition
                 Console.SetCursorPosition(x,y);
                 Console.WriteLine(text);
             }
-            WriteAt(5,5, "\tDette er en test!");
+            WriteAt(5,5, "\tDette er en test.");
             
             
             for (int i = 0; i < 10; i++)
